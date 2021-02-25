@@ -1,9 +1,8 @@
 """
 a program
 """
-<<<<<<< HEAD
+
 print("Hello World")
-=======
 
 
 def main():
@@ -17,4 +16,3 @@ def some_new_function():
 
 if __name__ == "__main__":
     main()
->>>>>>> wk5-test-1
